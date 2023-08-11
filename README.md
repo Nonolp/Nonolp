@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="nonolp"/>
 </p>
 
-| ![](https://github-readme-stats-nonolp.vercel.app/api/top-langs/?username=Nonolp&theme=github_dark&layout=compact) | ![](https://github-readme-stats-nonolp.vercel.app/api?username=Nonolp&show_icons=true&theme=github_dark&line_height=20) |
+| ![](https://github-readme-stats-nonolp.vercel.app/api/top-langs/?username=Nonolp&theme=github_dark&layout=compact private=true) | ![](https://github-readme-stats-nonolp.vercel.app/api?username=Nonolp&show_icons=true&theme=github_dark&line_height=20) |
 |---|---|
 
-![Top Langs](https://github-readme-stats.nonolp.vercel.app/api/top-langs/?username=nonolp&show_icons=true&theme=radical&count_private=true)
+
