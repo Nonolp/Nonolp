@@ -12,3 +12,5 @@
 
 | ![](https://github-readme-stats-nonolp.vercel.app/api/top-langs/?username=Nonolp&theme=github_dark&layout=compact) | ![](https://github-readme-stats-nonolp.vercel.app/api?username=Nonolp&show_icons=true&theme=github_dark&line_height=20) |
 |---|---|
+
+![Top Langs](https://github-readme-stats.nonolp.vercel.app/api/top-langs/?username=nonolp&show_icons=true&theme=radical&count_private=true)
