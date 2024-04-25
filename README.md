@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nonolp</h1>
 
-- 📘 I am currently learning **Python**
+- 📘 I am currently learning **C++**
 
 
 <h3 align="left">Languages </h3>
 <p align = "left">
 
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="nonolp"/>
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="nonolp"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="nonolp"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="nonolp"/>
