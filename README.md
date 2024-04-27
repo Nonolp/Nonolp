@@ -12,7 +12,7 @@
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="nonolp"/></a>
 </p>
 
-| ![](https://github-readme-stats-nonolp.vercel.app/api/top-langs/?username=Nonolp&theme=github_dark&layout=compact) | ![](https://github-readme-stats-nonolp.vercel.app/api?username=Nonolp&show_icons=true&theme=github_dark&line_height=20) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonolp&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=Nonolp&theme=dark&hide_border=true&include_all_commits=false&count_private=true) |
 |---|---|
 
 
