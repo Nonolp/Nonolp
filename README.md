@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nonolp</h1>
 
-- 📘 I am currently learning **C++**
+- 📘 I am currently learning **C**
 
 
 <h3 align="left">Languages </h3>
