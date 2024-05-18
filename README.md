@@ -2,6 +2,7 @@
 <h3>About Me : </h3>
 <p> Hello, I am Nonolp. I am an electrical engineering student. I am passionate about hardware and technological innovations, and I am somewhat interested in the world of emulation and video games.</p>
 <br>
+
 📘 I am currently learning **C** 
 
 
