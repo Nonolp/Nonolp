@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nonolp</h1>
 <h3>About Me : </h3>
- Hello, I am Nonolp. I am an electrical engineering student. I am passionate about hardware and technological innovations, and I am somewhat interested in the world of emulation and video games.
-
-📘 I am currently learning **C**
+<p> Hello, I am Nonolp. I am an electrical engineering student. I am passionate about hardware and technological innovations, and I am somewhat interested in the world of emulation and video games.</p>
+<br>
+📘 I am currently learning **C** 
 
 
 <h3 align="left"> Languages </h3>
